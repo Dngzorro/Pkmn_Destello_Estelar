@@ -8,7 +8,8 @@ Puedes decargar la versión más actual aquí: https://mega.nz/file/jMA3mAhb#lCE
 La descarga incluye el la carpeta del juego, y otra carpeta con documentos de información relevante del fangame: Ubicación de Pokémon, ubicación de objetos, niveles de los bosses, y una guía para las misiones secundarias.
 
 
-######################################################################################################################################################################
+###########################################################################################
+
 Nueva Versión: V 0.1.1 (11/09/2024)
 
 Notas del parche:
@@ -18,4 +19,4 @@ Notas del parche:
  - Cambios visuales en los menús de la Pokédex
  - Nuevo Sprite de batalla del Rival Darek, y nuevo Overworld para este.
  - Balanceo en los Stats totales de la 2ª Evolución del Inicial de tipo agua
-######################################################################################################################################################################
+###########################################################################################

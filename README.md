@@ -19,4 +19,5 @@ Notas del parche:
  - Cambios visuales en los menús de la Pokédex
  - Nuevo Sprite de batalla del Rival Darek, y nuevo Overworld para este.
  - Balanceo en los Stats totales de la 2ª Evolución del Inicial de tipo agua
+   
 ###########################################################################################

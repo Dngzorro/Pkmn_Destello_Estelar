@@ -3,7 +3,8 @@ Punto de descarga del fangame: Pokémon Destello Estelar
 
 La versión actual es la Beta 1 del proyecto. Cuenta con alrededor de 5 horas de juego de aventura principal, y otras 2 horas extra de contenido secundario. 
 
-Puedes decargar la versión más actual aquí [Este enlace se actualizará según las versiones]: https://mega.nz/file/OcpA0JDK#DuALXdN58L0AlfoTiNprwekO2uXeKoi7x4HjQyjLvQI
+Puedes decargar la versión más actual aquí [Este enlace se actualizará según las versiones]: 
+https://mega.nz/file/uRZXgICY#pHknIW0neZmeG_iY7qr3qDKFDEoso02_liPaLt0QZe8
 
 La descarga incluye el la carpeta del juego, y otra carpeta con documentos de información relevante del fangame: Ubicación de Pokémon, ubicación de objetos, niveles de los bosses, y una guía para las misiones secundarias.
 
